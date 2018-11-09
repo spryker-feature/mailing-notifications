@@ -1,0 +1,14 @@
+{
+  "name": "spryker-feature/mailing-notifications",
+  "description": "Mailing & Notifications [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-shop/newsletter-page": "^1.0.1",
+    "spryker-shop/newsletter-widget": "^1.2.0",
+    "spryker/mail": "^4.1.0",
+    "spryker/newsletter": "^4.3.1"
+  }
+}
