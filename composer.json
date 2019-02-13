@@ -7,8 +7,11 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
+    "spryker-shop/availability-notification-page": "^1.0.0",
+    "spryker-shop/availability-notification-widget": "^1.0.0",
     "spryker-shop/newsletter-page": "^1.0.2",
     "spryker-shop/newsletter-widget": "^1.2.1",
+    "spryker/availability-notification": "^1.0.0",
     "spryker/mail": "^4.1.0",
     "spryker/newsletter": "^4.4.0"
   },
