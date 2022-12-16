@@ -9,13 +9,13 @@
         "php": ">=8.0",
         "spryker-shop/newsletter-page": "^1.1.0",
         "spryker-shop/newsletter-widget": "^1.7.0",
-        "spryker/mail": "^4.9.0",
-        "spryker/newsletter": "^4.5.0",
+        "spryker/mail": "^4.10.0",
+        "spryker/newsletter": "^4.6.0",
         "spryker/symfony-mailer": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202211.x-dev"
+            "dev-master": "202212.x-dev"
         }
     }
 }
