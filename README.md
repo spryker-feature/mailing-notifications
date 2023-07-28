@@ -2,6 +2,8 @@
 
 Mailing, Emails, Newsletter, Notifications
 
+[Learn more](https://docs.spryker.com/docs/scos/user/features/202108.0/mailing-and-notifications-feature-overview.html)
+
 ## Installation
 
 ```
